@@ -38,7 +38,7 @@ Inside BAFB from **Figure 2A**, the integration of spatial and channel- attentio
 </br>
 
 ## Results
-I performaed a visual comparison between the proposed MD-RFA model and the Fused Attention Module with Dilated Residual Learning (FAM-DRL). **Figure 3** displays a noticeable difference between the two models. In regards to the red bounding box (ROI) from **Figure 3** the overall contrast and structure of the reconstructed image, with the FAM-DRL producing a darker image with minor smoothed edges and the MD-RFA retaining similar results to the NDCT image. In the blue sample, the FAM-DRL has a smoothing affect and fails to display the information within the ROI.
+I performed a visual comparison between the proposed MD-RFA model and the Fused Attention Module with Dilated Residual Learning (FAM-DRL). **Figure 3** displays a noticeable difference between the two models. In regards to the red bounding box (ROI) from **Figure 3** the overall contrast and structure of the reconstructed image, with the FAM-DRL producing a darker image with minor smoothed edges and the MD-RFA retaining similar results to the NDCT image. In the blue sample, the FAM-DRL has a smoothing affect and fails to display the information within the ROI.
 
 </br>
 <figure>
