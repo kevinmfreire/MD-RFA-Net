@@ -73,7 +73,7 @@ if __name__ == '__main__':
 
     st.write("""
             ### Upload your own DICOM file!\n
-            You can alsp upload your own DICOM file and the model will remove all noise artifacts and recosntruct the image.  If you wish to be able to download the denoised DICOM image then feel free to 
+            You can also upload your own DICOM file and the model will remove all noise artifacts and reconstruct the CT Scan.  If you would like to download the denoised DICOM image, feel free to 
             reach out to me at kmfayora@gmail.com.
             """)
 
